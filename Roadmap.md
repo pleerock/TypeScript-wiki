@@ -11,7 +11,7 @@
 * [Investigate error messages in haiku or iambic pentameter](https://twitter.com/kitsonk/status/973651805950242816)
 * Decorators for function expressions/arrow functions
 
-# 3.1 (August 2018)
+# 3.1 (September 2018)
 
 
 * [ ] [Support for `BigInt`](https://github.com/Microsoft/TypeScript/issues/15096)
